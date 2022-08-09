@@ -1,1 +1,2 @@
-This is where we keep all the Seeds icons
+# This is where we keep all the Seeds icons
+Here's how to use them...
