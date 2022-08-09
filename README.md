@@ -1,2 +1,2 @@
-# seeds-example
+# This is the home of the Seeds design system
 Testing out a structure and what's possible here...
